@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio-figma/static/css/main.ceb399e7.css",
-    "main.js": "/portfolio-figma/static/js/main.3702675e.js",
+    "main.css": "/portfolio-figma/static/css/main.a9399620.css",
+    "main.js": "/portfolio-figma/static/js/main.480534d9.js",
     "static/js/787.68d847da.chunk.js": "/portfolio-figma/static/js/787.68d847da.chunk.js",
     "index.html": "/portfolio-figma/index.html",
-    "main.ceb399e7.css.map": "/portfolio-figma/static/css/main.ceb399e7.css.map",
-    "main.3702675e.js.map": "/portfolio-figma/static/js/main.3702675e.js.map",
+    "main.a9399620.css.map": "/portfolio-figma/static/css/main.a9399620.css.map",
+    "main.480534d9.js.map": "/portfolio-figma/static/js/main.480534d9.js.map",
     "787.68d847da.chunk.js.map": "/portfolio-figma/static/js/787.68d847da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ceb399e7.css",
-    "static/js/main.3702675e.js"
+    "static/css/main.a9399620.css",
+    "static/js/main.480534d9.js"
   ]
 }
