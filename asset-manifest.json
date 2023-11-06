@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "https://sviatlanakapusta.github.io/portfolio-figma/static/css/main.ceb399e7.css",
-    "main.js": "https://sviatlanakapusta.github.io/portfolio-figma/static/js/main.b3a921f7.js",
-    "static/js/787.68d847da.chunk.js": "https://sviatlanakapusta.github.io/portfolio-figma/static/js/787.68d847da.chunk.js",
-    "index.html": "https://sviatlanakapusta.github.io/portfolio-figma/index.html",
-    "main.ceb399e7.css.map": "https://sviatlanakapusta.github.io/portfolio-figma/static/css/main.ceb399e7.css.map",
-    "main.b3a921f7.js.map": "https://sviatlanakapusta.github.io/portfolio-figma/static/js/main.b3a921f7.js.map",
-    "787.68d847da.chunk.js.map": "https://sviatlanakapusta.github.io/portfolio-figma/static/js/787.68d847da.chunk.js.map"
+    "main.css": "/portfolio-figma/static/css/main.ceb399e7.css",
+    "main.js": "/portfolio-figma/static/js/main.b3a921f7.js",
+    "static/js/787.68d847da.chunk.js": "/portfolio-figma/static/js/787.68d847da.chunk.js",
+    "index.html": "/portfolio-figma/index.html",
+    "main.ceb399e7.css.map": "/portfolio-figma/static/css/main.ceb399e7.css.map",
+    "main.b3a921f7.js.map": "/portfolio-figma/static/js/main.b3a921f7.js.map",
+    "787.68d847da.chunk.js.map": "/portfolio-figma/static/js/787.68d847da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ceb399e7.css",
